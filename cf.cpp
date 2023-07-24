@@ -45,4 +45,6 @@ int main()
 		ll ans=phisum[r]-phisum[l-1];
 		cout<<"Case "<<i<<": "<<ans<<endl;
 	}
+
+	//Hey i love you
 }
